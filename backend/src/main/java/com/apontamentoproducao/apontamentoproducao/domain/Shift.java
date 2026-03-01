@@ -1,5 +1,6 @@
 package com.apontamentoproducao.apontamentoproducao.domain;
 
+import com.apontamentoproducao.apontamentoproducao.domain.user.User;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import lombok.Getter;

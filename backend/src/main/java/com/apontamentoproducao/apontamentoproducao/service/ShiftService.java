@@ -1,6 +1,8 @@
 package com.apontamentoproducao.apontamentoproducao.service;
 
 import com.apontamentoproducao.apontamentoproducao.domain.*;
+import com.apontamentoproducao.apontamentoproducao.domain.user.User;
+import com.apontamentoproducao.apontamentoproducao.domain.user.UserRepository;
 import com.apontamentoproducao.apontamentoproducao.repository.*;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
